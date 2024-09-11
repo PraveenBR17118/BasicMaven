@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BasicMaven" thread-count = "5" parallel="tests">
+
+    <listeners>
+        <listener class-name="com.BasicMaven.utilities.ListenerManager" />
+    </listeners>
+
+    <test  name="Edge BankingApp Test">
+        <parameter name="os" value="MAC" />
+        <parameter name="browser" value="EDGE" />
+        <classes>
+            <class name="com.BasicMaven.testCases.TC_LoginTest_001" />
+            <!-- <class name="com.BasicMaven.testCases.TC_LoginDDT_002" /> -->
+           <!--  <class name="com.BasicMaven.testCases.TC_AddCustomerTest_003" /> -->
+        </classes>
+
+    </test>
+
+    <test  name="Chrome BankingApp Test">
+        <parameter name="os" value="MAC" />
+        <parameter name="browser" value="CHROME" />
+        <classes>
+           <!-- <class name="com.BasicMaven.testCases.TC_LoginTest_001" /> -->
+            <!-- <class name="com.BasicMaven.testCases.TC_LoginDDT_002" /> -->
+             <class name="com.BasicMaven.testCases.TC_AddCustomerTest_003" />
+        </classes>
+
+    </test>
+
+</suite>
+
