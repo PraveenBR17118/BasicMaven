@@ -1,0 +1,388 @@
+2024-09-08 02:39:11,985 - BasicMaven -INFO - URL is opened
+2024-09-08 02:39:12,236 - BasicMaven -INFO - Entered username
+2024-09-08 02:39:12,330 - BasicMaven -WARN - Entered password
+2024-09-08 02:39:13,366 - BasicMaven -INFO - Login test passed
+2024-09-08 10:46:13,958 - BasicMaven -INFO - URL is opened
+2024-09-08 10:46:14,319 - BasicMaven -INFO - Entered username
+2024-09-08 10:46:14,399 - BasicMaven -WARN - Entered password
+2024-09-08 10:46:15,487 - BasicMaven -INFO - Login test passed
+2024-09-08 11:31:02,074 - BasicMaven -INFO - URL is opened
+2024-09-08 11:31:02,382 - BasicMaven -INFO - Entered username
+2024-09-08 11:31:02,473 - BasicMaven -WARN - Entered password
+2024-09-08 11:31:03,557 - BasicMaven -INFO - Login test passed
+2024-09-08 13:13:22,958 - BasicMaven -INFO - URL is opened
+2024-09-08 13:13:23,267 - BasicMaven -INFO - Entered username
+2024-09-08 13:13:23,350 - BasicMaven -WARN - Entered password
+2024-09-08 13:13:24,403 - BasicMaven -INFO - Login test passed
+2024-09-08 19:27:27,819 - BasicMaven -INFO - URL is opened
+2024-09-08 19:27:28,189 - BasicMaven -INFO - Entered username
+2024-09-08 19:27:28,262 - BasicMaven -WARN - Entered password
+2024-09-08 19:27:29,297 - BasicMaven -INFO - Login test passed
+2024-09-08 19:27:30,091 - BasicMaven -WARN -  Entered password
+2024-09-08 19:58:25,171 - BasicMaven -INFO - URL is opened
+2024-09-08 19:58:25,474 - BasicMaven -INFO - Entered username
+2024-09-08 19:58:25,560 - BasicMaven -WARN - Entered password
+2024-09-08 19:58:26,558 - BasicMaven -INFO - Login test passed
+2024-09-08 19:58:27,368 - BasicMaven -WARN - Logout from user session
+2024-09-08 19:59:56,757 - BasicMaven -INFO - URL is opened
+2024-09-08 19:59:57,076 - BasicMaven -INFO - Entered username
+2024-09-08 19:59:57,161 - BasicMaven -WARN - Entered password
+2024-09-08 19:59:58,240 - BasicMaven -INFO - Login test passed
+2024-09-08 19:59:58,972 - BasicMaven -WARN - Logout from user session
+2024-09-08 20:10:07,581 - BasicMaven -INFO - URL is opened
+2024-09-08 20:10:07,972 - BasicMaven -INFO - Entered username
+2024-09-08 20:10:08,049 - BasicMaven -WARN - Entered password
+2024-09-08 20:12:24,461 - BasicMaven -INFO - URL is opened
+2024-09-08 20:12:24,792 - BasicMaven -INFO - Entered username
+2024-09-08 20:12:24,872 - BasicMaven -WARN - Entered password
+2024-09-08 22:01:54,059 - BasicMaven -INFO - user name provided
+2024-09-08 22:01:54,159 - BasicMaven -WARN - password provided
+2024-09-08 22:01:55,515 - BasicMaven -INFO - user name provided
+2024-09-08 22:01:55,584 - BasicMaven -WARN - password provided
+2024-09-08 22:01:56,844 - BasicMaven -INFO - user name provided
+2024-09-08 22:01:56,929 - BasicMaven -WARN - password provided
+2024-09-08 22:02:01,068 - BasicMaven -INFO - Login passed
+2024-09-08 22:02:07,395 - BasicMaven -INFO - user name provided
+2024-09-08 22:02:07,472 - BasicMaven -WARN - password provided
+2024-09-08 22:02:09,287 - BasicMaven -INFO - user name provided
+2024-09-08 22:02:09,390 - BasicMaven -WARN - password provided
+2024-09-08 22:22:32,605 - BasicMaven -INFO - User name is provided
+2024-09-08 22:22:32,692 - BasicMaven -INFO - Passsword is provided
+2024-09-08 22:22:37,868 - BasicMaven -INFO - providing customer details....
+2024-09-08 22:22:45,874 - BasicMaven -INFO - validation started....
+2024-09-08 22:22:45,916 - BasicMaven -INFO - test case passed....
+2024-09-08 22:27:00,444 - BasicMaven -INFO - URL is opened
+2024-09-08 22:27:00,703 - BasicMaven -INFO - Entered username
+2024-09-08 22:27:00,787 - BasicMaven -WARN - Entered password
+2024-09-08 22:27:08,014 - BasicMaven -INFO - user name provided
+2024-09-08 22:27:08,122 - BasicMaven -WARN - password provided
+2024-09-08 22:27:09,448 - BasicMaven -INFO - user name provided
+2024-09-08 22:27:09,618 - BasicMaven -WARN - password provided
+2024-09-08 22:27:10,779 - BasicMaven -INFO - user name provided
+2024-09-08 22:27:10,860 - BasicMaven -WARN - password provided
+2024-09-08 22:27:14,918 - BasicMaven -INFO - Login passed
+2024-09-08 22:27:21,765 - BasicMaven -INFO - user name provided
+2024-09-08 22:27:21,856 - BasicMaven -WARN - password provided
+2024-09-08 22:27:23,152 - BasicMaven -INFO - user name provided
+2024-09-08 22:27:23,241 - BasicMaven -WARN - password provided
+2024-09-08 22:27:28,441 - BasicMaven -INFO - User name is provided
+2024-09-08 22:27:28,518 - BasicMaven -INFO - Passsword is provided
+2024-09-08 22:27:33,653 - BasicMaven -INFO - providing customer details....
+2024-09-08 22:27:44,249 - BasicMaven -INFO - validation started....
+2024-09-08 22:27:44,278 - BasicMaven -INFO - test case passed....
+2024-09-08 22:29:55,187 - BasicMaven -INFO - URL is opened
+2024-09-08 22:29:55,541 - BasicMaven -INFO - Entered username
+2024-09-08 22:29:55,777 - BasicMaven -WARN - Entered password
+2024-09-08 22:30:03,149 - BasicMaven -INFO - user name provided
+2024-09-08 22:30:03,249 - BasicMaven -WARN - password provided
+2024-09-08 22:30:04,530 - BasicMaven -INFO - user name provided
+2024-09-08 22:30:04,615 - BasicMaven -WARN - password provided
+2024-09-08 22:30:05,809 - BasicMaven -INFO - user name provided
+2024-09-08 22:30:05,972 - BasicMaven -WARN - password provided
+2024-09-08 22:30:10,009 - BasicMaven -INFO - Login passed
+2024-09-08 22:30:17,543 - BasicMaven -INFO - user name provided
+2024-09-08 22:30:17,642 - BasicMaven -WARN - password provided
+2024-09-08 22:30:18,847 - BasicMaven -INFO - user name provided
+2024-09-08 22:30:18,934 - BasicMaven -WARN - password provided
+2024-09-08 22:30:24,519 - BasicMaven -INFO - User name is provided
+2024-09-08 22:30:24,598 - BasicMaven -INFO - Passsword is provided
+2024-09-08 22:30:29,859 - BasicMaven -INFO - providing customer details....
+2024-09-08 22:30:38,024 - BasicMaven -INFO - validation started....
+2024-09-08 22:30:38,053 - BasicMaven -INFO - test case passed....
+2024-09-08 22:31:30,663 - BasicMaven -INFO - URL is opened
+2024-09-08 22:31:30,892 - BasicMaven -INFO - Entered username
+2024-09-08 22:31:30,976 - BasicMaven -WARN - Entered password
+2024-09-08 22:31:38,199 - BasicMaven -INFO - user name provided
+2024-09-08 22:31:38,282 - BasicMaven -WARN - password provided
+2024-09-08 22:31:39,551 - BasicMaven -INFO - user name provided
+2024-09-08 22:31:39,728 - BasicMaven -WARN - password provided
+2024-09-08 22:31:40,949 - BasicMaven -INFO - user name provided
+2024-09-08 22:31:41,024 - BasicMaven -WARN - password provided
+2024-09-08 22:31:45,088 - BasicMaven -INFO - Login passed
+2024-09-08 22:31:50,871 - BasicMaven -INFO - user name provided
+2024-09-08 22:31:50,993 - BasicMaven -WARN - password provided
+2024-09-08 22:31:52,244 - BasicMaven -INFO - user name provided
+2024-09-08 22:31:52,367 - BasicMaven -WARN - password provided
+2024-09-08 22:31:57,340 - BasicMaven -INFO - User name is provided
+2024-09-08 22:31:57,421 - BasicMaven -INFO - Passsword is provided
+2024-09-08 22:32:02,545 - BasicMaven -INFO - providing customer details....
+2024-09-08 22:32:10,479 - BasicMaven -INFO - validation started....
+2024-09-08 22:32:10,506 - BasicMaven -INFO - test case passed....
+2024-09-08 22:35:08,465 - BasicMaven -INFO - URL is opened
+2024-09-08 22:35:08,720 - BasicMaven -INFO - Entered username
+2024-09-08 22:35:08,799 - BasicMaven -WARN - Entered password
+2024-09-08 22:35:16,163 - BasicMaven -INFO - user name provided
+2024-09-08 22:35:16,320 - BasicMaven -WARN - password provided
+2024-09-08 22:35:17,872 - BasicMaven -INFO - user name provided
+2024-09-08 22:35:17,943 - BasicMaven -WARN - password provided
+2024-09-08 22:35:19,179 - BasicMaven -INFO - user name provided
+2024-09-08 22:35:19,258 - BasicMaven -WARN - password provided
+2024-09-08 22:35:23,409 - BasicMaven -INFO - Login passed
+2024-09-08 22:35:29,534 - BasicMaven -INFO - user name provided
+2024-09-08 22:35:29,614 - BasicMaven -WARN - password provided
+2024-09-08 22:35:31,101 - BasicMaven -INFO - user name provided
+2024-09-08 22:35:31,211 - BasicMaven -WARN - password provided
+2024-09-08 22:35:36,903 - BasicMaven -INFO - User name is provided
+2024-09-08 22:35:36,982 - BasicMaven -INFO - Passsword is provided
+2024-09-08 22:35:42,287 - BasicMaven -INFO - providing customer details....
+2024-09-08 22:35:51,438 - BasicMaven -INFO - validation started....
+2024-09-08 22:35:51,458 - BasicMaven -INFO - test case passed....
+2024-09-08 22:44:07,443 - BasicMaven -INFO - URL is opened
+2024-09-08 22:44:07,789 - BasicMaven -INFO - Entered username
+2024-09-08 22:44:07,902 - BasicMaven -WARN - Entered password
+2024-09-08 22:44:15,987 - BasicMaven -INFO - user name provided
+2024-09-08 22:44:16,093 - BasicMaven -WARN - password provided
+2024-09-08 22:44:17,481 - BasicMaven -INFO - user name provided
+2024-09-08 22:44:17,561 - BasicMaven -WARN - password provided
+2024-09-08 22:44:18,835 - BasicMaven -INFO - user name provided
+2024-09-08 22:44:18,911 - BasicMaven -WARN - password provided
+2024-09-08 22:44:23,065 - BasicMaven -INFO - Login passed
+2024-09-08 22:44:28,832 - BasicMaven -INFO - user name provided
+2024-09-08 22:44:28,923 - BasicMaven -WARN - password provided
+2024-09-08 22:44:30,233 - BasicMaven -INFO - user name provided
+2024-09-08 22:44:30,316 - BasicMaven -WARN - password provided
+2024-09-08 22:44:35,700 - BasicMaven -INFO - User name is provided
+2024-09-08 22:44:35,775 - BasicMaven -INFO - Passsword is provided
+2024-09-08 22:44:40,898 - BasicMaven -INFO - providing customer details....
+2024-09-08 22:44:48,605 - BasicMaven -INFO - validation started....
+2024-09-08 22:44:48,621 - BasicMaven -INFO - test case passed....
+2024-09-08 22:47:52,489 - BasicMaven -INFO - URL is opened
+2024-09-08 22:47:52,818 - BasicMaven -INFO - Entered username
+2024-09-08 22:47:52,901 - BasicMaven -WARN - Entered password
+2024-09-08 22:47:53,913 - BasicMaven -INFO - Login test passed
+2024-09-08 22:47:54,706 - BasicMaven -WARN - Logout from user session
+2024-09-08 22:48:01,004 - BasicMaven -INFO - user name provided
+2024-09-08 22:48:01,106 - BasicMaven -WARN - password provided
+2024-09-08 22:48:02,790 - BasicMaven -INFO - user name provided
+2024-09-08 22:48:02,931 - BasicMaven -WARN - password provided
+2024-09-08 22:48:04,229 - BasicMaven -INFO - user name provided
+2024-09-08 22:48:04,464 - BasicMaven -WARN - password provided
+2024-09-08 22:48:05,768 - BasicMaven -INFO - user name provided
+2024-09-08 22:48:05,836 - BasicMaven -WARN - password provided
+2024-09-08 22:59:30,219 - BasicMaven -INFO - URL is opened
+2024-09-08 22:59:30,470 - BasicMaven -INFO - Entered username
+2024-09-08 22:59:30,552 - BasicMaven -WARN - Entered password
+2024-09-08 22:59:31,678 - BasicMaven -INFO - Login test passed
+2024-09-08 22:59:32,446 - BasicMaven -WARN - Logout from user session
+2024-09-08 22:59:37,949 - BasicMaven -INFO - User name is provided
+2024-09-08 22:59:38,037 - BasicMaven -INFO - Passsword is provided
+2024-09-08 22:59:43,263 - BasicMaven -INFO - providing customer details....
+2024-09-08 22:59:51,255 - BasicMaven -INFO - validation started....
+2024-09-08 22:59:51,280 - BasicMaven -INFO - test case passed....
+2024-09-08 23:53:17,709 - BasicMaven -INFO - URL is opened
+2024-09-08 23:53:17,936 - BasicMaven -INFO - Entered username
+2024-09-08 23:53:18,035 - BasicMaven -WARN - Entered password
+2024-09-08 23:53:19,087 - BasicMaven -INFO - Login test passed
+2024-09-08 23:53:19,937 - BasicMaven -WARN - Logout from user session
+2024-09-08 23:53:24,226 - BasicMaven -INFO - User name is provided
+2024-09-08 23:53:24,322 - BasicMaven -INFO - Passsword is provided
+2024-09-08 23:53:29,639 - BasicMaven -INFO - providing customer details....
+2024-09-08 23:53:37,680 - BasicMaven -INFO - validation started....
+2024-09-08 23:53:37,710 - BasicMaven -INFO - test case passed....
+2024-09-09 00:06:44,006 - BasicMaven -INFO - URL is opened
+2024-09-09 00:06:44,316 - BasicMaven -INFO - Entered username
+2024-09-09 00:06:44,438 - BasicMaven -WARN - Entered password
+2024-09-09 00:06:45,501 - BasicMaven -INFO - Login test passed
+2024-09-09 00:06:46,251 - BasicMaven -WARN - Logout from user session
+2024-09-09 00:06:50,899 - BasicMaven -INFO - User name is provided
+2024-09-09 00:06:51,013 - BasicMaven -INFO - Passsword is provided
+2024-09-09 00:06:56,125 - BasicMaven -INFO - providing customer details....
+2024-09-09 00:07:04,296 - BasicMaven -INFO - validation started....
+2024-09-09 00:07:04,326 - BasicMaven -INFO - test case passed....
+2024-09-09 00:49:27,833 - BasicMaven -INFO - URL is opened
+2024-09-09 00:49:28,136 - BasicMaven -INFO - Entered username
+2024-09-09 00:49:28,247 - BasicMaven -WARN - Entered password
+2024-09-09 00:49:29,308 - BasicMaven -INFO - Login test passed
+2024-09-09 00:49:30,103 - BasicMaven -WARN - Logout from user session
+2024-09-09 00:49:34,991 - BasicMaven -INFO - User name is provided
+2024-09-09 00:49:35,134 - BasicMaven -INFO - Passsword is provided
+2024-09-09 00:49:40,376 - BasicMaven -INFO - providing customer details....
+2024-09-09 00:49:49,235 - BasicMaven -INFO - validation started....
+2024-09-09 00:49:49,264 - BasicMaven -INFO - test case passed....
+2024-09-10 23:05:32,929 - BasicMaven -INFO - URL is opened
+2024-09-10 23:05:33,153 - BasicMaven -INFO - Entered username
+2024-09-10 23:05:33,255 - BasicMaven -WARN - Entered password
+2024-09-10 23:05:34,204 - BasicMaven -INFO - Login test passed
+2024-09-10 23:05:34,945 - BasicMaven -WARN - Logout from user session
+2024-09-10 23:05:40,095 - BasicMaven -INFO - User name is provided
+2024-09-10 23:05:40,217 - BasicMaven -INFO - Passsword is provided
+2024-09-10 23:05:45,318 - BasicMaven -INFO - providing customer details....
+2024-09-10 23:05:55,542 - BasicMaven -INFO - validation started....
+2024-09-10 23:05:55,577 - BasicMaven -INFO - test case passed....
+2024-09-10 23:34:12,463 - BasicMaven -INFO - URL is opened
+2024-09-10 23:34:12,719 - BasicMaven -INFO - Entered username
+2024-09-10 23:34:12,812 - BasicMaven -WARN - Entered password
+2024-09-10 23:34:13,887 - BasicMaven -INFO - Login test passed
+2024-09-10 23:34:14,672 - BasicMaven -WARN - Logout from user session
+2024-09-10 23:34:19,447 - BasicMaven -INFO - User name is provided
+2024-09-10 23:34:19,537 - BasicMaven -INFO - Passsword is provided
+2024-09-10 23:34:24,700 - BasicMaven -INFO - providing customer details....
+2024-09-10 23:34:32,616 - BasicMaven -INFO - validation started....
+2024-09-10 23:34:32,648 - BasicMaven -INFO - test case passed....
+2024-09-10 23:48:08,621 - BasicMaven -INFO - URL is opened
+2024-09-10 23:48:09,048 - BasicMaven -INFO - Entered username
+2024-09-10 23:48:09,178 - BasicMaven -WARN - Entered password
+2024-09-10 23:48:10,222 - BasicMaven -INFO - Login test passed
+2024-09-10 23:48:10,944 - BasicMaven -WARN - Logout from user session
+2024-09-10 23:48:17,409 - BasicMaven -INFO - User name is provided
+2024-09-10 23:48:17,509 - BasicMaven -INFO - Passsword is provided
+2024-09-10 23:48:22,539 - BasicMaven -INFO - providing customer details....
+2024-09-10 23:48:31,491 - BasicMaven -INFO - validation started....
+2024-09-10 23:48:31,513 - BasicMaven -INFO - test case passed....
+2024-09-11 00:15:46,802 - BasicMaven -INFO - URL is opened
+2024-09-11 00:15:47,194 - BasicMaven -INFO - Entered username
+2024-09-11 00:15:47,303 - BasicMaven -WARN - Entered password
+2024-09-11 00:15:48,277 - BasicMaven -INFO - Login test passed
+2024-09-11 00:15:49,014 - BasicMaven -WARN - Logout from user session
+2024-09-11 00:15:54,109 - BasicMaven -INFO - User name is provided
+2024-09-11 00:15:54,195 - BasicMaven -INFO - Passsword is provided
+2024-09-11 00:15:59,448 - BasicMaven -INFO - providing customer details....
+2024-09-11 00:16:07,439 - BasicMaven -INFO - validation started....
+2024-09-11 00:16:07,470 - BasicMaven -INFO - test case passed....
+2024-09-11 01:10:23,088 - BasicMaven -INFO - URL is opened
+2024-09-11 01:10:23,493 - BasicMaven -INFO - Entered username
+2024-09-11 01:10:23,629 - BasicMaven -WARN - Entered password
+2024-09-11 01:10:24,700 - BasicMaven -INFO - Login test passed
+2024-09-11 01:10:25,423 - BasicMaven -WARN - Logout from user session
+2024-09-11 01:10:30,339 - BasicMaven -INFO - User name is provided
+2024-09-11 01:10:30,430 - BasicMaven -INFO - Passsword is provided
+2024-09-11 01:10:35,524 - BasicMaven -INFO - providing customer details....
+2024-09-11 01:10:44,263 - BasicMaven -INFO - validation started....
+2024-09-11 01:10:44,291 - BasicMaven -INFO - test case passed....
+2024-09-11 19:26:13,585 - BasicMaven -INFO - URL is opened
+2024-09-11 19:26:13,998 - BasicMaven -INFO - Entered username
+2024-09-11 19:26:14,110 - BasicMaven -WARN - Entered password
+2024-09-11 19:26:15,088 - BasicMaven -INFO - Login test passed
+2024-09-11 19:26:15,829 - BasicMaven -WARN - Logout from user session
+2024-09-11 19:26:21,714 - BasicMaven -INFO - User name is provided
+2024-09-11 19:26:21,807 - BasicMaven -INFO - Passsword is provided
+2024-09-11 19:26:26,920 - BasicMaven -INFO - providing customer details....
+2024-09-11 19:26:34,885 - BasicMaven -INFO - validation started....
+2024-09-11 19:26:34,909 - BasicMaven -INFO - test case passed....
+2024-09-11 19:27:42,222 - BasicMaven -INFO - URL is opened
+2024-09-11 19:27:42,616 - BasicMaven -INFO - Entered username
+2024-09-11 19:27:42,704 - BasicMaven -WARN - Entered password
+2024-09-11 19:27:43,759 - BasicMaven -INFO - Login test passed
+2024-09-11 19:27:44,563 - BasicMaven -WARN - Logout from user session
+2024-09-11 19:27:51,281 - BasicMaven -INFO - user name provided
+2024-09-11 19:27:51,369 - BasicMaven -WARN - password provided
+2024-09-11 19:27:53,147 - BasicMaven -INFO - user name provided
+2024-09-11 19:27:53,218 - BasicMaven -WARN - password provided
+2024-09-11 19:27:54,767 - BasicMaven -INFO - user name provided
+2024-09-11 19:27:54,850 - BasicMaven -WARN - password provided
+2024-09-11 19:27:58,874 - BasicMaven -INFO - Login passed
+2024-09-11 19:28:04,599 - BasicMaven -INFO - user name provided
+2024-09-11 19:28:04,713 - BasicMaven -WARN - password provided
+2024-09-11 19:28:06,316 - BasicMaven -INFO - user name provided
+2024-09-11 19:28:06,391 - BasicMaven -WARN - password provided
+2024-09-11 19:28:13,752 - BasicMaven -INFO - User name is provided
+2024-09-11 19:28:13,858 - BasicMaven -INFO - Passsword is provided
+2024-09-11 19:28:18,839 - BasicMaven -INFO - providing customer details....
+2024-09-11 19:28:26,758 - BasicMaven -INFO - validation started....
+2024-09-11 19:28:26,790 - BasicMaven -INFO - test case passed....
+2024-09-11 22:33:56,140 - BasicMaven -INFO - URL is opened
+2024-09-11 22:33:56,420 - BasicMaven -INFO - Entered username
+2024-09-11 22:33:56,502 - BasicMaven -WARN - Entered password
+2024-09-11 22:33:57,500 - BasicMaven -INFO - Login test passed
+2024-09-11 22:33:58,352 - BasicMaven -WARN - Logout from user session
+2024-09-11 22:34:03,182 - BasicMaven -INFO - User name is provided
+2024-09-11 22:34:03,257 - BasicMaven -INFO - Passsword is provided
+2024-09-11 22:34:08,313 - BasicMaven -INFO - providing customer details....
+2024-09-11 22:34:16,169 - BasicMaven -INFO - validation started....
+2024-09-11 22:34:16,198 - BasicMaven -INFO - test case passed....
+2024-09-11 22:35:00,935 - BasicMaven -INFO - URL is opened
+2024-09-11 22:35:01,265 - BasicMaven -INFO - Entered username
+2024-09-11 22:35:01,336 - BasicMaven -WARN - Entered password
+2024-09-11 22:38:56,568 - BasicMaven -INFO - URL is opened
+2024-09-11 22:38:56,886 - BasicMaven -INFO - Entered username
+2024-09-11 22:38:56,957 - BasicMaven -WARN - Entered password
+2024-09-11 22:39:43,564 - BasicMaven -INFO - URL is opened
+2024-09-11 22:39:43,853 - BasicMaven -INFO - Entered username
+2024-09-11 22:39:43,921 - BasicMaven -WARN - Entered password
+2024-09-11 22:41:09,705 - BasicMaven -INFO - URL is opened
+2024-09-11 22:41:10,053 - BasicMaven -INFO - Entered username
+2024-09-11 22:41:10,136 - BasicMaven -WARN - Entered password
+2024-09-11 22:41:17,043 - BasicMaven -INFO - User name is provided
+2024-09-11 22:41:17,144 - BasicMaven -INFO - Passsword is provided
+2024-09-11 22:41:21,674 - BasicMaven -INFO - providing customer details....
+2024-09-11 22:41:33,932 - BasicMaven -INFO - validation started....
+2024-09-11 22:41:33,962 - BasicMaven -INFO - test case passed....
+2024-09-11 22:52:32,603 - BasicMaven -INFO - URL is opened
+2024-09-11 22:52:33,069 - BasicMaven -INFO - Entered username
+2024-09-11 22:52:33,189 - BasicMaven -WARN - Entered password
+2024-09-11 22:57:25,950 - BasicMaven -INFO - User name is provided
+2024-09-11 22:57:26,061 - BasicMaven -INFO - Passsword is provided
+2024-09-11 22:57:31,031 - BasicMaven -INFO - providing customer details....
+2024-09-11 22:57:43,950 - BasicMaven -INFO - validation started....
+2024-09-11 22:57:43,988 - BasicMaven -INFO - test case passed....
+2024-09-11 23:26:43,086 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:26:46,996 - BasicMaven -INFO - URL is opened
+2024-09-11 23:26:47,547 - BasicMaven -INFO - Entered username
+2024-09-11 23:26:47,657 - BasicMaven -WARN - Entered password
+2024-09-11 23:27:07,241 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:27:11,427 - BasicMaven -INFO - User name is provided
+2024-09-11 23:27:11,545 - BasicMaven -INFO - Passsword is provided
+2024-09-11 23:27:16,572 - BasicMaven -INFO - providing customer details....
+2024-09-11 23:27:24,723 - BasicMaven -INFO - validation started....
+2024-09-11 23:27:24,758 - BasicMaven -INFO - test case passed....
+2024-09-11 23:37:45,058 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:37:46,628 - BasicMaven -INFO - Opened Chrome driver
+2024-09-11 23:37:49,313 - BasicMaven -INFO - URL is opened
+2024-09-11 23:37:49,860 - BasicMaven -INFO - Entered username
+2024-09-11 23:37:49,922 - BasicMaven -INFO - User name is provided
+2024-09-11 23:37:50,089 - BasicMaven -WARN - Entered password
+2024-09-11 23:37:50,170 - BasicMaven -INFO - Passsword is provided
+2024-09-11 23:40:42,570 - BasicMaven -INFO - Opened Chrome driver
+2024-09-11 23:40:42,717 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:40:45,478 - BasicMaven -INFO - URL is opened
+2024-09-11 23:40:45,946 - BasicMaven -INFO - Entered username
+2024-09-11 23:40:45,995 - BasicMaven -INFO - User name is provided
+2024-09-11 23:40:46,090 - BasicMaven -WARN - Entered password
+2024-09-11 23:40:46,141 - BasicMaven -INFO - Passsword is provided
+2024-09-11 23:42:31,361 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:42:34,007 - BasicMaven -INFO - URL is opened
+2024-09-11 23:42:34,426 - BasicMaven -INFO - Entered username
+2024-09-11 23:42:34,517 - BasicMaven -WARN - Entered password
+2024-09-11 23:42:39,368 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:42:42,214 - BasicMaven -INFO - User name is provided
+2024-09-11 23:42:42,341 - BasicMaven -INFO - Passsword is provided
+2024-09-11 23:42:46,783 - BasicMaven -INFO - providing customer details....
+2024-09-11 23:42:54,900 - BasicMaven -INFO - validation started....
+2024-09-11 23:42:54,932 - BasicMaven -INFO - test case passed....
+2024-09-11 23:44:21,457 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:44:23,982 - BasicMaven -INFO - URL is opened
+2024-09-11 23:44:24,394 - BasicMaven -INFO - Entered username
+2024-09-11 23:44:24,490 - BasicMaven -WARN - Entered password
+2024-09-11 23:44:30,008 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:44:32,876 - BasicMaven -INFO - User name is provided
+2024-09-11 23:44:32,967 - BasicMaven -INFO - Passsword is provided
+2024-09-11 23:44:38,081 - BasicMaven -INFO - providing customer details....
+2024-09-11 23:44:46,100 - BasicMaven -INFO - validation started....
+2024-09-11 23:44:46,130 - BasicMaven -INFO - test case passed....
+2024-09-11 23:48:05,948 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:48:08,344 - BasicMaven -INFO - URL is opened
+2024-09-11 23:48:08,698 - BasicMaven -INFO - Entered username
+2024-09-11 23:48:08,787 - BasicMaven -WARN - Entered password
+2024-09-11 23:48:13,942 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:48:16,619 - BasicMaven -INFO - User name is provided
+2024-09-11 23:48:17,024 - BasicMaven -INFO - Passsword is provided
+2024-09-11 23:48:22,098 - BasicMaven -INFO - providing customer details....
+2024-09-11 23:48:30,086 - BasicMaven -INFO - validation started....
+2024-09-11 23:48:30,122 - BasicMaven -INFO - test case passed....
+2024-09-11 23:52:42,077 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:52:44,765 - BasicMaven -INFO - URL is opened
+2024-09-11 23:52:45,191 - BasicMaven -INFO - Entered username
+2024-09-11 23:52:45,296 - BasicMaven -WARN - Entered password
+2024-09-11 23:52:50,778 - BasicMaven -INFO - Opened edge driver
+2024-09-11 23:52:53,440 - BasicMaven -INFO - User name is provided
+2024-09-11 23:52:53,550 - BasicMaven -INFO - Passsword is provided
+2024-09-11 23:52:58,473 - BasicMaven -INFO - providing customer details....
+2024-09-11 23:53:06,440 - BasicMaven -INFO - validation started....
+2024-09-11 23:53:06,478 - BasicMaven -INFO - test case passed....
+2024-09-12 00:00:26,070 - BasicMaven -INFO - Opened Chrome driver
+2024-09-12 00:00:26,359 - BasicMaven -INFO - Opened edge driver
+2024-09-12 00:00:29,382 - BasicMaven -INFO - URL is opened
+2024-09-12 00:00:29,698 - BasicMaven -INFO - User name is provided
+2024-09-12 00:00:29,739 - BasicMaven -INFO - Entered username
+2024-09-12 00:00:29,875 - BasicMaven -INFO - Passsword is provided
+2024-09-12 00:00:29,949 - BasicMaven -WARN - Entered password
